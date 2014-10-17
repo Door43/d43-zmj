@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zmj:home|Door43 (zmj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zmj|d43-zmj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zmj/archive/master.zip|d43-zmj.zip]]
+
+**Recent Changes**
+{{changes>ns = zmj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zmj|Ethnologue data]]
+
